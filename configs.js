@@ -1,14 +1,12 @@
 import live2dJSString from './bin/live2d'
-import React from "react";
-import ReactDOM from "react-dom";
-import Models from "./bin/Model";
+import React from "react"
+import ReactDOM from "react-dom"
+import Models from "./bin/Model"
 import data from './bin/data'
 
-if (!window.loadlive2d) {
-    const script = document.createElement('script')
-    script.innerText = live2dJSString
-    document.body.appendChild(script)
-}
+const script = document.createElement('script')
+script.innerText = live2dJSString
+document.body.appendChild(script)
 
 const models = document.createElement('div')
 
