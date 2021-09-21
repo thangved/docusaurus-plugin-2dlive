@@ -14,7 +14,10 @@
     "url": "git+https://github.com/thangved/docusaurus-plugin-2dlive.git"
   },
   "keywords": [
-    "docusaurus"
+    "docusaurus",
+    "docusaurus-plugin-2dlive",
+    "thangved",
+    "minhthangdev"
   ],
   "author": "thangved",
   "license": "MIT",
