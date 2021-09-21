@@ -1,0 +1,13 @@
+.models-container {
+    width: 200px;
+    height: 400px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 100;
+}
+
+.models-container canvas {
+    width: 200px;
+    height: 400px;
+}
