@@ -29,7 +29,6 @@ const Models = () => {
                     width: '100%'
                 }}
                 onChange={onChange}
-                showSearch
                 placeholder='Chọn models...'>
                 {
                     data.map((url, i) => {
