@@ -1,6 +1,6 @@
 {
 	"name": "docusaurus-plugin-2dlive",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "A live2d plugin docusaurus",
 	"main": "index.js",
 	"bin": {
