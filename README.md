@@ -2,6 +2,7 @@
 
 [![Node.js CI](https://github.com/thangved/docusaurus-plugin-2dlive/actions/workflows/node.js.yml/badge.svg)](https://github.com/thangved/docusaurus-plugin-2dlive/actions/workflows/node.js.yml)
 [![npm package](https://badgen.net/npm/v/docusaurus-plugin-2dlive)](https://www.npmjs.com/package/docusaurus-plugin-2dlive)
+![dt](https://badgen.net/npm/dt/docusaurus-plugin-2dlive)
 [![npm package](https://badgen.net/npm/dependents/got/docusaurus-plugin-2dlive)](https://www.npmjs.com/package/docusaurus-plugin-2dlive)
 [![npm package](https://badgen.net/npm/license/docusaurus-plugin-2dlive)](https://www.npmjs.com/package/docusaurus-plugin-2dlive)
 
